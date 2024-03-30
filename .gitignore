@@ -1,0 +1,39 @@
+# .gitignore
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+*.env
+
+# Ignore compiled binaries from the Bash script
+*.sh
+*.out
+
+# Ignore PDF files
+*.pdf
+
+# Ignore image files (you can specify image extensions)
+*.jpg
+*.png
+*.gif
+
+# Ignore any build artifacts or temporary files
+build/
+dist/
+*.log
+*.tmp
+
+# Ignore IDE-specific files (customize based on your IDE)
+.vscode/
+.idea/
+
+# Ignore any sensitive or private configuration files
+secrets.yaml
+config.ini
+
+# Ignore generated documentation
+docs/
