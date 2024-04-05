@@ -10,4 +10,4 @@ Scenario6_WifiHome_SimpleFileDownload.pcap
 Scenario7_WifiHome_SimpleFileUpload.pcap 
 (See corresponding .log files in LOGS/ dir)]
 
-Solving: Added missing.zip (If unzipped its files(2) should be put in the LOGS/ dir)
+**[Missing Solved]**: Added .csv files (corresponding to the 2 missing .pcaps)
