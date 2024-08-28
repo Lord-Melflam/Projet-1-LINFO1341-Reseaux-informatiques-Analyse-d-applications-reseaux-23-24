@@ -1,1 +1,1 @@
-Folder for .pcap (from packets capture)
+Folder for .pcap files (from packets capture)
