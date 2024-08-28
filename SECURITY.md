@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please contact one of our projcet owner (The list address of owners are currently available in the ``README.md``.
+To report a vulnerability, please contact one of our projcet owner (The list address of owners is currently available in the ``README.md``.
